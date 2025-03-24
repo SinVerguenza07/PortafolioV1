@@ -1,0 +1,43 @@
+body {
+    background: #F5F7FA; 
+    color: #374151; 
+}
+
+header {
+    background: #1e2838 30%, #3c3171 90%;
+    color: white;
+}
+
+nav {
+    background: #3B82F6;
+}
+
+.container {
+    background: white; 
+}
+
+#section-about {
+    background: #60A5FA; 
+}
+
+#section-jobs {
+    background: #93C5FD;
+}
+
+#section-skill {
+    background: #60A5FA; 
+}
+
+#section-contact {
+    background: #1E3A8A;
+    color: white;
+}
+
+.btn-cv, .btn-send-msg {
+    background: #EF4444; 
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
